@@ -1,0 +1,3 @@
+node default {
+  notice("Boom")
+}
